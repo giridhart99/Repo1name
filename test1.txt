@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is B87F-DF52
+
+ Directory of C:\Users\giridhar\Desktop\mygitproj
+
+03/20/2017  06:17 PM    <DIR>          .
+03/20/2017  06:17 PM    <DIR>          ..
+03/20/2017  06:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  277,966,958,592 bytes free
+
+
+change 1
